@@ -19,7 +19,7 @@ The following Next.js features are demonstrated:
 Ensure Node.js v10 or above is installed, clone the repository, and install all modules:
 
 ```sh
-git clone https://github.com/craigbuckler/nextjs-starter.git
+git clone git@github.com:sitepoint-editors/nextjs-starter.git
 cd nextjs-starter
 npm i
 ```
